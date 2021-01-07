@@ -20,7 +20,7 @@ Now your database is configuration is done. Now the application will be able to 
 
 After Downloading unzip it and store it in the location of your choice(preferably in the same folder as the application is in). 
 
-We need to pass apache tomcat folder path while we configure it. As show in following video.
+We need to pass apache tomcat folder path while we configure it. As show in following gif video.
 
-
+![Alt Text](./ReadMe_Configure_Tomcat_server.gif)
 
