@@ -1,4 +1,4 @@
-# Academicerp Disburse Salary
+# Academic ERP Disburse Salary
 
 ### In this project, we have implemented a small part of the entire academic erp that is Disburse the salary of the employees and adding an employee to the database.
 
